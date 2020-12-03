@@ -1,4 +1,4 @@
-###About
+### About
 
 
 A bar graph made with d3.js following the below listed requirements:
